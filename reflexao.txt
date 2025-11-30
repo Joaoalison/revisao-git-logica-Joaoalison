@@ -1,0 +1,1 @@
+: No Git a lógica dedutiva aparece qunado partimos de um estado conhecido, o último comit, e aplicamos comandos que tem efeitos previsiveis. Se o HEAD está em um commit X e façoo um commit novo, posso deduzir que o historico avançara com esse novo registro.
