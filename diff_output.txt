@@ -1,0 +1,8 @@
+diff --git a/reflexao.txt b/reflexao.txt
+index 6e2af16..e17df89 100644
+--- a/reflexao.txt
++++ b/reflexao.txt
+@@ -1 +1,3 @@
+ : No Git a lógica dedutiva aparece qunado partimos de um estado conhecido, o último comit, e aplicamos comandos que tem efeitos previsiveis. Se o HEAD está em um commit X e façoo um commit novo, posso deduzir que o historico avançara com esse novo registro.
++Paragrafo 2 - Decomposição e branches:
++A decomposição se manifesta ao criar branches que isolam funcionalidades ou correções. Cada branch representa um subproblema independente: você desenvolver, testa e corrige sem agetar a main. Depois, qunado pronto, integra-se ao todo por meio do merge.
