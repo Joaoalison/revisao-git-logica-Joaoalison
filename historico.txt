@@ -1,0 +1,3 @@
+* a901e2b (HEAD -> main, origin/main, origin/desenvolvimento, origin/HEAD, desenvolvimento) anãlise: resultado do git diff entre desenvolvimento e main
+* b5fd414 refleção: decomposição via branches
+* a2d86a1 reflexão lógica dedutiva no Git
